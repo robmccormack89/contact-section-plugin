@@ -1,0 +1,59 @@
+# Copyright (C) 2021 contact-section
+# This file is distributed under the same license as the contact-section package.
+msgid ""
+msgstr ""
+"Project-Id-Version: contact-section\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: views/temp/contact-section.php:3
+msgctxt "Contact section title"
+msgid "In store"
+msgstr ""
+
+#: views/temp/contact-section.php:5
+msgctxt "Contact section line 1"
+msgid "123 Fake St."
+msgstr ""
+
+#: views/temp/contact-section.php:6
+msgctxt "Contact section line 2"
+msgid "Toronto, Canada"
+msgstr ""
+
+#: views/temp/contact-section.php:9
+msgctxt "Contact section line 3"
+msgid "Mon - Fri, 10am - 9pm"
+msgstr ""
+
+#: views/temp/contact-section.php:10
+msgctxt "Contact section line 4"
+msgid "Sat & Sun, 11am - 5pm"
+msgstr ""
+
+#: views/temp/contact-section.php:13
+msgctxt "Contact section link url"
+msgid "Contact us"
+msgstr ""
+
+#: views/temp/contact-section.php:14
+msgctxt "Contact section link text"
+msgid "Contact us"
+msgstr ""
+
+#: views/temp/contact-section.php:20
+msgctxt "Contact section background image url"
+msgid "https://picsum.photos/1080/675"
+msgstr ""
+
+#: views/temp/contact-section.php:22
+msgctxt "Contact section background image alt"
+msgid "Alt text"
+msgstr ""

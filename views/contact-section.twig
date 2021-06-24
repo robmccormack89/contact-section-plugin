@@ -1,0 +1,25 @@
+<section class="uk-child-width-1-2@m uk-grid-match uk-flex uk-flex-middle uk-grid-collapse uk-background-muted uk-text-center" uk-grid>
+  <div class="uk-padding">
+    <h3>{{ _x('In store', 'Contact section title', 'contact-section')|e('esc_html') }}</h3>
+    <p class="uk-margin-small">
+      {{ _x('123 Fake St.', 'Contact section line 1', 'contact-section')|e('esc_html') }}<br>
+      {{ _x('Toronto, Canada', 'Contact section line 2', 'contact-section')|e('esc_html') }}
+    </p>
+    <p class="uk-margin-small">
+      {{ _x('Mon - Fri, 10am - 9pm', 'Contact section line 3', 'contact-section')|e('esc_html') }}<br>
+      {{ _x('Sat & Sun, 11am - 5pm', 'Contact section line 4', 'contact-section')|e('esc_html') }}
+    </p>
+    <div class="uk-margin-top">
+      <a class="feature-link uk-text-uppercase uk-text-emphasis" href="{{ _x('Contact us', 'Contact section link url', 'contact-section')|e('esc_url') }}">
+        {{ _x('Contact us', 'Contact section link text', 'contact-section')|e('esc_html') }}
+      </a>
+    </div>
+  </div>
+  <div>
+    <img 
+    data-src="{{ _x('https://picsum.photos/1080/675', 'Contact section background image url', 'contact-section')|e('esc_url') }}" 
+    width="1080" height="675" 
+    alt="{{ _x('Alt text', 'Contact section background image alt', 'contact-section')|e('esc_html') }}"
+    uk-img>
+  </div>
+</section>
