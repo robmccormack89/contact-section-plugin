@@ -2,7 +2,7 @@
 /*
 Plugin Name: Contact Section by RMcC
 Plugin URI: #
-Description: Adds contact section via shortcode [contact_section]
+Description: Add a contact section to a page using the [contact_section] shortcode. Ideal for the Homepage. This plugin is translation-ready.
 Version: 1.0.0
 Author: robmccormack89
 Author URI: #
