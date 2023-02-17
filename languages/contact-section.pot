@@ -35,7 +35,7 @@ msgstr ""
 
 #: views/temp/contact-section.php:23
 msgctxt "Image link"
-msgid "https://picsum.photos/600/600"
+msgid "https://picsum.photos/600/700?random=1"
 msgstr ""
 
 #: views/temp/contact-section.php:23
