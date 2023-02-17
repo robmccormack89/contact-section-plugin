@@ -16,41 +16,39 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-17 07:51+0000\n"
-"PO-Revision-Date: 2023-02-17 17:41+0000\n"
+"PO-Revision-Date: 2023-02-17 07:53+0000\n"
 "Last-Translator: \n"
 "Language-Team: English (UK)\n"
 "Language: en_GB\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.6.3; wp-6.1.1"
 
-#: views/temp/contact-section.php:15
-msgctxt "Button link"
-msgid "#"
+#: views/temp/contact-section.php:6
+msgctxt "Contact section - title"
+msgid "In store"
 msgstr ""
 
 #: views/temp/contact-section.php:16
-msgctxt "Button text"
+msgctxt "Contact section - details"
+msgid "123 Fake St."
+msgstr ""
+"123 Fake St.<br>\n"
+"Toronto, Canada<br>\n"
+"<br>\n"
+"Mon - Fri, 10am - 9pm<br>\n"
+"Sat & Sun, 11am - 5pm"
+
+#: views/temp/contact-section.php:20
+msgctxt "Contact section - button link"
 msgid "Contact us"
 msgstr ""
 
-#: views/temp/contact-section.php:11
-msgctxt "Details"
-msgid ""
-"Lorem ipsum dolor,<br>Consectetur adipiscing,<br><br>Sed do eiusmod tempor,"
-"<br>Ut labore et dolore"
-msgstr ""
-
-#: views/temp/contact-section.php:23
-msgctxt "Image alt text"
-msgid "Image by Lorem Picsum"
-msgstr ""
-
-#: views/temp/contact-section.php:23
-msgctxt "Image link"
-msgid "https://picsum.photos/600/600"
-msgstr ""
-
-#: views/temp/contact-section.php:7
-msgctxt "Title"
+#: views/temp/contact-section.php:21
+msgctxt "Contact section - button text"
 msgid "Contact us"
+msgstr ""
+
+#: views/temp/contact-section.php:28
+msgctxt "Contact section - bg img link"
+msgid "https://picsum.photos/900/900"
 msgstr ""

@@ -1,27 +1,27 @@
-<section class="contact-section uk-grid-match uk-flex uk-flex-middle uk-grid-collapse" uk-grid>
+<section class="contact-section">
+	<div class="uk-grid-match uk-flex uk-flex-middle" uk-grid>
 
-  <div class="uk-width-1-2@s uk-flex-last uk-flex-first@s uk-text-center uk-text-left@s uk-padding-small uk-padding-remove-horizontal">
+		<div class="uk-width-1-2@s uk-flex-last uk-flex-first@s uk-text-center uk-text-left@s">
 
-    <h3 class="contact-section-title">
-      {{ _x('In store', 'Contact section - title', 'contact-section')|e('esc_html') }}
-    </h3>
+			<h3 class="contact-section-title">
+				{{ _x('Contact us', 'Title', 'contact-section')|e('esc_html') }}
+			</h3>
 
-    <p class="contact-section-details uk-margin-small">
-      {{ _x( '123 Fake St.', 'Contact section - details', 'contact-section')|e('wp_kses_post') }}
-    </p>
+			<p class="contact-section-details uk-margin-small">
+				{{ _x( 'Lorem ipsum dolor,<br>Consectetur adipiscing,<br><br>Sed do eiusmod tempor,<br>Ut labore et dolore', 'Details', 'contact-section')|e('wp_kses_post') }}
+			</p>
 
-    <div class="contact-section-button uk-margin-top">
-      <a class="uk-button uk-button-text" href="{{ _x('Contact us', 'Contact section - button link', 'contact-section')|e('esc_url') }}">
-        {{ _x('Contact us', 'Contact section - button text', 'contact-section')|e('esc_html') }}
-      </a>
-    </div>
+			<div class="contact-section-button uk-margin-top">
+				<a class="uk-button uk-button-text" href="{{ _x('#', 'Button link', 'contact-section')|e('esc_url') }}">
+					{{ _x('Contact us', 'Button text', 'contact-section')|e('esc_html') }}
+				</a>
+			</div>
 
-  </div>
+		</div>
 
-  <div class="contact-section-img uk-width-1-2@s uk-flex-first uk-flex-last@s">
-    <img src="{{ _x('https://picsum.photos/600/600', 'Contact section - bg img link', 'contact-section')|e('esc_url') }}"
-    alt="{{ _x('', 'Contact section - bg img alt text', 'contact-section')|e('esc_html') }}"
-    width="600" height="600">
-  </div>
+		<div class="contact-section-img uk-width-1-2@s uk-flex-first uk-flex-last@s">
+			<img src="{{ _x('https://picsum.photos/600/600', 'Image link', 'contact-section')|e('esc_url') }}" alt="{{ _x('Image by Lorem Picsum', 'Image alt text', 'contact-section')|e('esc_html') }}" width="600" height="600">
+		</div>
 
+	</div>
 </section>

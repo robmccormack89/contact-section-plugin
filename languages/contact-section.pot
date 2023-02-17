@@ -13,27 +13,32 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: views/temp/contact-section.php:6
-msgctxt "Contact section - title"
-msgid "In store"
+#: views/temp/contact-section.php:7
+msgctxt "Title"
+msgid "Contact us"
+msgstr ""
+
+#: views/temp/contact-section.php:11
+msgctxt "Details"
+msgid "Lorem ipsum dolor,<br>Consectetur adipiscing,<br><br>Sed do eiusmod tempor,<br>Ut labore et dolore"
+msgstr ""
+
+#: views/temp/contact-section.php:15
+msgctxt "Button link"
+msgid "#"
 msgstr ""
 
 #: views/temp/contact-section.php:16
-msgctxt "Contact section - details"
-msgid "123 Fake St."
-msgstr ""
-
-#: views/temp/contact-section.php:20
-msgctxt "Contact section - button link"
+msgctxt "Button text"
 msgid "Contact us"
 msgstr ""
 
-#: views/temp/contact-section.php:21
-msgctxt "Contact section - button text"
-msgid "Contact us"
+#: views/temp/contact-section.php:23
+msgctxt "Image link"
+msgid "https://picsum.photos/600/600"
 msgstr ""
 
-#: views/temp/contact-section.php:28
-msgctxt "Contact section - bg img link"
-msgid "https://picsum.photos/900/900"
+#: views/temp/contact-section.php:23
+msgctxt "Image alt text"
+msgid "Image by Lorem Picsum"
 msgstr ""
