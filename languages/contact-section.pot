@@ -1,4 +1,4 @@
-# Copyright (C) 2021 contact-section
+# Copyright (C) 2023 contact-section
 # This file is distributed under the same license as the contact-section package.
 msgid ""
 msgstr ""
@@ -13,47 +13,27 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: views/temp/contact-section.php:3
-msgctxt "Contact section title"
+#: views/temp/contact-section.php:6
+msgctxt "Contact section - title"
 msgid "In store"
 msgstr ""
 
-#: views/temp/contact-section.php:5
-msgctxt "Contact section line 1"
+#: views/temp/contact-section.php:16
+msgctxt "Contact section - details"
 msgid "123 Fake St."
 msgstr ""
 
-#: views/temp/contact-section.php:6
-msgctxt "Contact section line 2"
-msgid "Toronto, Canada"
-msgstr ""
-
-#: views/temp/contact-section.php:9
-msgctxt "Contact section line 3"
-msgid "Mon - Fri, 10am - 9pm"
-msgstr ""
-
-#: views/temp/contact-section.php:10
-msgctxt "Contact section line 4"
-msgid "Sat & Sun, 11am - 5pm"
-msgstr ""
-
-#: views/temp/contact-section.php:13
-msgctxt "Contact section link url"
-msgid "Contact us"
-msgstr ""
-
-#: views/temp/contact-section.php:14
-msgctxt "Contact section link text"
-msgid "Contact us"
-msgstr ""
-
 #: views/temp/contact-section.php:20
-msgctxt "Contact section background image url"
-msgid "https://picsum.photos/1080/675"
+msgctxt "Contact section - button link"
+msgid "Contact us"
 msgstr ""
 
-#: views/temp/contact-section.php:22
-msgctxt "Contact section background image alt"
-msgid "Alt text"
+#: views/temp/contact-section.php:21
+msgctxt "Contact section - button text"
+msgid "Contact us"
+msgstr ""
+
+#: views/temp/contact-section.php:28
+msgctxt "Contact section - bg img link"
+msgid "https://picsum.photos/900/900"
 msgstr ""
