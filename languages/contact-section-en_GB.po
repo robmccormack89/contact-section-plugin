@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-17 07:51+0000\n"
-"PO-Revision-Date: 2023-02-17 17:41+0000\n"
+"PO-Revision-Date: 2023-02-18 01:27+0000\n"
 "Last-Translator: \n"
 "Language-Team: English (UK)\n"
 "Language: en_GB\n"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: views/temp/contact-section.php:23
 msgctxt "Image link"
-msgid "https://picsum.photos/600/600"
+msgid "https://picsum.photos/600/700?random=1"
 msgstr ""
 
 #: views/temp/contact-section.php:7
